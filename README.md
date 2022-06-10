@@ -1,5 +1,5 @@
 # KjayVPN Simple Website 
 
-[KjayVPN](https://kjayvpn.ga/)
+[KjayVPN](https://kjayvpn.ml/)
 
 
